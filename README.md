@@ -1,7 +1,7 @@
 # psh_reverse_OneLine
 Generate the command to make a powershell revershell (the one liner encoded in base64)
 
-syntax:
+manual:
 
 	--help or -h	print manual
  
