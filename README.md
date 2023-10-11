@@ -3,7 +3,7 @@ Generate the command to make a powershell revershell (the one liner encoded in b
 
 manual:
 
-	--help or -h	print manual
+	--help or -h	print help manual
  
 	--ip or -i	specify IP
  
